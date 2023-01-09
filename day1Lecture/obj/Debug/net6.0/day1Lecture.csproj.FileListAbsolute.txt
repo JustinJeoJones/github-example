@@ -1,0 +1,15 @@
+C:\Users\jeo96\source\repos\day1Lecture\day1Lecture\bin\Debug\net6.0\day1Lecture.exe
+C:\Users\jeo96\source\repos\day1Lecture\day1Lecture\bin\Debug\net6.0\day1Lecture.deps.json
+C:\Users\jeo96\source\repos\day1Lecture\day1Lecture\bin\Debug\net6.0\day1Lecture.runtimeconfig.json
+C:\Users\jeo96\source\repos\day1Lecture\day1Lecture\bin\Debug\net6.0\day1Lecture.dll
+C:\Users\jeo96\source\repos\day1Lecture\day1Lecture\bin\Debug\net6.0\day1Lecture.pdb
+C:\Users\jeo96\source\repos\day1Lecture\day1Lecture\obj\Debug\net6.0\day1Lecture.csproj.AssemblyReference.cache
+C:\Users\jeo96\source\repos\day1Lecture\day1Lecture\obj\Debug\net6.0\day1Lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeo96\source\repos\day1Lecture\day1Lecture\obj\Debug\net6.0\day1Lecture.AssemblyInfoInputs.cache
+C:\Users\jeo96\source\repos\day1Lecture\day1Lecture\obj\Debug\net6.0\day1Lecture.AssemblyInfo.cs
+C:\Users\jeo96\source\repos\day1Lecture\day1Lecture\obj\Debug\net6.0\day1Lecture.csproj.CoreCompileInputs.cache
+C:\Users\jeo96\source\repos\day1Lecture\day1Lecture\obj\Debug\net6.0\day1Lecture.dll
+C:\Users\jeo96\source\repos\day1Lecture\day1Lecture\obj\Debug\net6.0\refint\day1Lecture.dll
+C:\Users\jeo96\source\repos\day1Lecture\day1Lecture\obj\Debug\net6.0\day1Lecture.pdb
+C:\Users\jeo96\source\repos\day1Lecture\day1Lecture\obj\Debug\net6.0\day1Lecture.genruntimeconfig.cache
+C:\Users\jeo96\source\repos\day1Lecture\day1Lecture\obj\Debug\net6.0\ref\day1Lecture.dll
